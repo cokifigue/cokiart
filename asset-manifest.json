@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cokiart/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cokiart/static/js/main.3cb8657c.chunk.js",
+    "main.js.map": "/cokiart/static/js/main.3cb8657c.chunk.js.map",
+    "runtime-main.js": "/cokiart/static/js/runtime-main.c45a8f6a.js",
+    "runtime-main.js.map": "/cokiart/static/js/runtime-main.c45a8f6a.js.map",
+    "static/js/2.5d9dddf7.chunk.js": "/cokiart/static/js/2.5d9dddf7.chunk.js",
+    "static/js/2.5d9dddf7.chunk.js.map": "/cokiart/static/js/2.5d9dddf7.chunk.js.map",
+    "index.html": "/cokiart/index.html",
+    "precache-manifest.a34a2a1a403f30621df8994f9ded0b2e.js": "/cokiart/precache-manifest.a34a2a1a403f30621df8994f9ded0b2e.js",
+    "service-worker.js": "/cokiart/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cokiart/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5d9dddf7.chunk.js.LICENSE.txt": "/cokiart/static/js/2.5d9dddf7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cokiart/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c45a8f6a.js",
+    "static/js/2.5d9dddf7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3cb8657c.chunk.js"
+  ]
+}
